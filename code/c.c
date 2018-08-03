@@ -6,6 +6,7 @@
 #include <test6>
 #include <test7>
 #include <test8>
+#include <test9>
 
 using file.io;
 using file2.io;
