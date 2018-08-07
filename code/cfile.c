@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <time.h>
+
 int main()
 {
     int i, j, rows;
