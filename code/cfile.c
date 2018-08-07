@@ -4,7 +4,7 @@
 int main()
 {
     int i, j, rows;
-
+    printf("Row Filler");
     printf("Enter number of rows: ");
     scanf("%d",&rows);
 
